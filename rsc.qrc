@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>to_do_list_board.png</file>
+        <file>alfatraining.png</file>
+        <file>icons8_germany_flag.png</file>
+        <file>icons8_great_britain_flag.png</file>
+    </qresource>
+    <qresource prefix="/translation">
+        <file>Projekt_Patrick_Pertler_de_DE.qm</file>
+        <file>Projekt_Patrick_Pertler_en_150.qm</file>
+    </qresource>
+</RCC>
